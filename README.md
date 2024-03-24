@@ -19,3 +19,9 @@
 - login: admin;
 - password: admin;
 - Необходимо перейти по ссылке http://localhost:8000/admin и ввести учетные данные выше.
+
+## Стек технологий.
+
+- Django;
+- Django REST Framework;
+- PostgreSQL;
