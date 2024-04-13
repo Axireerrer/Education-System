@@ -25,3 +25,7 @@
 - Django;
 - Django REST Framework;
 - PostgreSQL;
+
+## Код находится.
+
+- В ветке master
